@@ -32,6 +32,7 @@
   color:white;
 }
 
+
 main {
 	margin-top: 80px;
 }
@@ -60,7 +61,7 @@ main {
 }
 
 .image-wrapper img {
-	max-width: 100%;
+	max-width: 150px;
 }
 
 .product-wrapper p {

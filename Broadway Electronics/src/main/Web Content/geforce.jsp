@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>PlayStation 5</title>
-<link rel="stylesheet" type="text/css" href="playstation.css">
+<title>GeForce RTX 4090</title>
+<link rel="stylesheet" type="text/css" href="geforce.css">
 </head>
 <body>
 
@@ -27,16 +27,15 @@
   </div>
 </nav>
 
-
 <main>
 		<div class="container">
 			<div class="product-wrapper">
-				<h2>PlayStation 5</h2>
+				<h2>GeForce RTX 4090</h2>
 				<div class="image-wrapper">
-					<img src="ps5_2.jpg" alt="Playstation 5">
+					<img src="geforce.jpg" alt="Geforce RTX 4090">
 				</div>
-				<p>Lasciati stupire dalla grafica incredibile e prova le nuove funzionalità di PS5. Scopri un'esperienza di gioco più profonda con supporto per feedback tattile, trigger adattivi e tecnologia audio 3DRay Tracing - Immergiti in mondi che offrono un livello di realismo senza precedenti, con ogni raggio di luce simulato individualmente, creando effetti di ombre e riflessi ultra realistici sui giochi PS5 compatibili. </p>
-				<p>Prezzo: € 549,99</p>
+				<p> NVIDIA GeForce RTX™ 4090 è la GPU GeForce definitiva. Si tratta di un enorme passo avanti in termini di prestazioni, efficienza e grafica basata su IA. Scopri il gaming ad altissime prestazioni, mondi virtuali incredibilmente dettagliati, produttività senza precedenti e nuovi modi di creare. Basata sull'architettura NVIDIA Ada Lovelace e include 24 GB di memoria G6X per offrire l'esperienza definitiva per giocatori e creativi.</p>
+				<p>Prezzo: € 1789</p>
 				<form action="#" method="post">
 					<label for="quantity">Quantità</label>
 					<input type="number" name="quantity" id="quantity" value="1" min="1" required>
@@ -45,21 +44,18 @@
 			</div>
 			<h1>Caratteristiche tecniche</h1>
 			<ul>
-			<li>CPU: 8x Zen 2 Cores at 3.5GHz</li>
-			<li>GPU: 10.28 TFLOPs, 36 CUs at 2.23GHz (frequenza variabile)</li>
-			<li>Architettura GPU: RDNA 2 personalizzata</li>
-			<li>Memoria: 16GB GDDR6/256-bit</li>
-			<li>Larghezza di banda della memoria: 448GB/s</li>
-			<li>Spazio d’archiviazione interno: Custom 825GB SSD</li>
-			<li>Throughput I/O: 5.5GB/s (Raw), Typical 8-9GB/s (Compresso)</li>
-			<li>Spazio d’archiviazione espandibile: NVMe SSD Slot</li>
-			<li>Spazio d’archiviazione esterno: USB HDD Support</li>
-			<li>Lettore ottico: 4K UHD Blu-ray Drive</li>
+			<li>Core NVIDIA CUDA: 16384 </li>
+			<li>Boost Clock(GHz): 2.52</li>
+			<li>Dimensioni della memoria: 24 GB</li>
+			<li>Tipo di memoria: GDDR6X</li>
+			<li>Massima risoluzione digitale: 7680x4320</li>
+			<li>Lunghezza: 304 mm</li>
+			<li>Larghezza:137 mm</li>
+			<li>Slot: 3 slot(61mm)</li>
 			</ul>
 		</div>
 	</main>
-	
-	 <footer class="footer">
+ <footer class="footer">
   <div class="footer-content">
     <div class="footer-links">
       <ul>
@@ -75,7 +71,6 @@
     </div>
   </div>
 </footer>
-
 
 </body>
 </html>
