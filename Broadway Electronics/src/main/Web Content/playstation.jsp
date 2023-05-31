@@ -5,12 +5,12 @@
 <head>
 <meta charset="UTF-8">
 <title>PlayStation 5</title>
-<link rel="stylesheet" type="text/css" href="playstation.css">
+<link rel="stylesheet" type="text/css" href="styles/playstation.css">
 </head>
 <body>
 
 <header>
-<a href="index.jsp"><img src="logo_nuovo.jpg" alt="logo del sito"></a>
+<a href="index.jsp"><img src="images/logo_nuovo.jpg" alt="logo del sito"></a>
 </header>
 
 <nav class="navbar">
@@ -19,27 +19,27 @@
    <li class="dropdown">
     Categorie
     <div class="dropdown-content">
-      <a href="console.jsp"><img src="gamepad_ic.png" alt="Pagina Console">Console</a>
-      <a href="smartphone.jsp"><img src="smartphone_ic.png" alt="Pagina Smartphone">Smartphone</a>
-       <a href="tv.jsp"><img src="tv_ic_n.png" alt="Pagina Tv">Smart TV</a>
-        <a href="pc.jsp"><img src="pc_ic.png" alt="Pagina PC">PC e Laptop</a>
+      <a href="console.jsp"><img src="images/gamepad_ic.png" alt="Pagina Console">Console</a>
+      <a href="smartphone.jsp"><img src="images/" alt="Pagina Smartphone">Smartphone</a>
+       <a href="tv.jsp"><img src="images/tv_ic_n.png" alt="Pagina Tv">Smart TV</a>
+        <a href="pc.jsp"><img src="images/pc_ic.png" alt="Pagina PC">PC e Laptop</a>
     </div>
   </li>
     <li><a href="offerte.jsp">Offerte</a></li>
    <li class="dropdown">
     Marche
     <div class="dropdown-content">
-      <a href="samsung.jsp"><img src="samsung_inverso.png" alt="Pagina Samsung">Samsung</a>
-      <a href="apple.jsp"><img src="apple_ic.png" alt="Pagina Apple">Apple</a>
-       <a href="playstation_cat.jsp"><img src="play_ic.png" alt="Pagina Playtation">Playstation</a>
-        <a href="xbox.jsp"><img src="xbox_ic.png" alt="Pagina Xbox">Xbox</a>
+      <a href="samsung.jsp"><img src="images/samsung_inverso.png" alt="Pagina Samsung">Samsung</a>
+      <a href="apple.jsp"><img src="images/apple_ic.png" alt="Pagina Apple">Apple</a>
+       <a href="playstation_cat.jsp"><img src="images/play_ic.png" alt="Pagina Playtation">Playstation</a>
+        <a href="xbox.jsp"><img src="images/xbox_ic.png" alt="Pagina Xbox">Xbox</a>
     </div>
   </li>
     <li><a href="#">Assistenza</a></li>
   </ul>
   <div class="navbar-right">
-     <a href="login.jsp"><img src="user_nuovo.png" alt="Accedi"></a>
-    <a href="carrello.jsp"><img src="carrello_nuovo.png" alt="Carrello"></a>
+     <a href="login.jsp"><img src="images/user_nuovo.png" alt="Accedi"></a>
+    <a href="carrello.jsp"><img src="images/carrello_nuovo.png" alt="Carrello"></a>
   </div>
 </nav>
 
@@ -49,7 +49,7 @@
 			<div class="product-wrapper">
 				<h2>PlayStation 5</h2>
 				<div class="image-wrapper">
-					<img src="ps5_2.jpg" alt="Playstation 5">
+					<img src="images/ps5_2.jpg" alt="Playstation 5">
 				</div>
 				<p>Lasciati stupire dalla grafica incredibile e prova le nuove funzionalità di PS5. Scopri un'esperienza di gioco più profonda con supporto per feedback tattile, trigger adattivi e tecnologia audio 3DRay Tracing - Immergiti in mondi che offrono un livello di realismo senza precedenti, con ogni raggio di luce simulato individualmente, creando effetti di ombre e riflessi ultra realistici sui giochi PS5 compatibili. </p>
 				<p>Prezzo: € 549,99</p>
@@ -87,7 +87,7 @@
       </ul>
     </div>
     <div class="footer-logo">
-      <img src="logo_nuovo.jpg" alt="Logo Sito">
+      <img src="images/logo_nuovo.jpg" alt="Logo Sito">
     </div>
   </div>
 </footer>

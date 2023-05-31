@@ -5,12 +5,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Offerte</title>
-    <link rel="stylesheet" type="text/css" href="styles/offerte.css">
+    <link rel="stylesheet" type="text/css" href="styles/smartphone.css">
 </head>
 <body>
 
 <header>
-<a href="index.jsp"><img src="logo_nuovo.jpg" alt="logo del sito"></a>
+<a href="index.jsp"><img src="images/logo_nuovo.jpg" alt="logo del sito"></a>
 </header>
 
 <nav class="navbar">
@@ -45,28 +45,26 @@
 
 
     <div class="container">
-        <h1>Offerte del momento</h1>
+        <h1>Smartphone attualmente disponibili</h1>
         
         <div class="product-list">
             <div class="product">
                 <div class="image">
-                    <a href="samsung_tv.jsp"><img src="images/samsung_tv.jpg" alt="Samsung - 75 Class TU690T Series LED 4K UHD Smart Tizen TV"></a>
+                    <a href="oppo.jsp"><img src="images/oppo.jpg" alt="Oppo"></a>
                 </div>
                 <div class="info">
-                    <a href="samsung_tv.jsp"><span class="name"> Samsung - 75" Class TU690T Series LED 4K UHD </span></a>
-                    <span class="price-old">Prezzo: €649.99</span>
-                    <span class="price-discounted">Prezzo scontato: €539.99</span>
+                    <a href="oppo.jsp"><span class="name"> Oppo Find N2 Flip </span></a>
+                    <span class="price-discounted">Prezzo: €1199</span>
                 </div>
             </div>
           
             <div class="product">
                 <div class="image">
-                    <a href="xbox.jsp"><img src="images/xbox.png" alt="Xbox Series X"></a>
+                    <a href="xbox.jsp"><img src="xbox.png" alt="Xbox Series X"></a>
                 </div>
                 <div class="info">
                     <a href="xbox.jsp"><span class="name">Xbox Series X</span></a>
-                    <span class="price-old">Prezzo: €499.99</span>
-                    <span class="price-discounted">Prezzo scontato: €410.00</span>
+                    <span class="price-discounted">Prezzo: €410.00</span>
                 </div>
             </div>
             
@@ -83,22 +81,20 @@
             
             <div class="product">
                 <div class="image">
-                    <a href="katana.jsp"><img src="images/katana.jpg" alt="MSI Katana"></a>
+                    <a href="katana.jsp"><img src="katana.jpg" alt="MSI Katana"></a>
                 </div>
                 <div class="info">
                     <a href="katana.jsp"><span class="name">MSI Katana</span></a>
-                    <span class="price-old">Prezzo: €1147.00</span>
                     <span class="price-discounted">Prezzo scontato: €1000.00</span>
                 </div>
             </div>
             
             <div class="product">
                 <div class="image">
-                    <a href="lenovo.jsp"><img src="images/lenovo.jpg" alt="Lenovo Ideapad"></a>
+                    <a href="lenovo.jsp"><img src="lenovo.jpg" alt="Lenovo Ideapad"></a>
                 </div>
                 <div class="info">
                     <a href="lenovo.jsp"><span class="name">Lenovo Ideapad</span></a>
-                    <span class="price-old">Prezzo: €449.00</span>
                     <span class="price-discounted">Prezzo scontato: €395.00</span>
                 </div>
             </div>
@@ -127,18 +123,17 @@
             
             <div class="product">
                 <div class="image">
-                    <a href="switch.jsp"><img src="images/switch.jpg" alt="Nintendo Switch"></a>
+                    <a href="switch.jsp"><img src="switch.jpg" alt="Nintendo Switch"></a>
                 </div>
                 <div class="info">
                       <a href="switch.jsp"><span class="name">Nintendo Switch Oled</span></a>
-                    <span class="price-old">Prezzo: €350.00</span>
                     <span class="price-discounted">Prezzo scontato: €290.00</span>
                 </div>
             </div>
             
              <div class="product">
                 <div class="image">
-                      <a href="samsung60.jsp"><img src="images/samsung60.jpg" alt="Samsung TV UE65TU8070UXZT Smart TV 65 Serie TU8070, Crystal UHD 4K, Wi-Fi, 2020, con Alexa integrata, Nero"></a>
+                      <a href="samsung60.jsp"><img src="samsung60.jpg" alt="Samsung TV UE65TU8070UXZT Smart TV 65 Serie TU8070, Crystal UHD 4K, Wi-Fi, 2020, con Alexa integrata, Nero"></a>
                 </div>
                 <div class="info">
                      <a href="samsung60.jsp"><span class="name">Samsung TV UE65TU8070UXZT Smart TV 65" Serie TU8070, Crystal UHD 4K</span></a>

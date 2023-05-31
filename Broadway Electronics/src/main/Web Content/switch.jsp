@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>GeForce RTX 4090</title>
-<link rel="stylesheet" type="text/css" href="styles/geforce.css">
+<title>Xbox Series X</title>
+<link rel="stylesheet" type="text/css" href="styles/switch.css">
 </head>
 <body>
 
@@ -16,7 +16,7 @@
 <nav class="navbar">
   <ul class="navbar-links">
     <li><a href="index.jsp" title="Home">Home</a></li>
-    <li class="dropdown">
+   <li class="dropdown">
     Categorie
     <div class="dropdown-content">
       <a href="console.jsp"><img src="images/gamepad_ic.png" alt="Pagina Console">Console</a>
@@ -38,20 +38,22 @@
     <li><a href="#">Assistenza</a></li>
   </ul>
   <div class="navbar-right">
-    <a href="login.jsp"><img src="images/user_nuovo.png" alt="Accedi"></a>
+     <a href="login.jsp"><img src="images/user_nuovo.png" alt="Accedi"></a>
     <a href="carrello.jsp"><img src="images/carrello_nuovo.png" alt="Carrello"></a>
   </div>
 </nav>
 
+
 <main>
 		<div class="container">
 			<div class="product-wrapper">
-				<h2>GeForce RTX 4090</h2>
+				<h2>Xbox Series X</h2>
 				<div class="image-wrapper">
-					<img src="images/geforce.jpg" alt="Geforce RTX 4090">
+					<img src="images/switch.jpg" alt="Nintendo Switch Oled">
 				</div>
-				<p> NVIDIA GeForce RTX™ 4090 è la GPU GeForce definitiva. Si tratta di un enorme passo avanti in termini di prestazioni, efficienza e grafica basata su IA. Scopri il gaming ad altissime prestazioni, mondi virtuali incredibilmente dettagliati, produttività senza precedenti e nuovi modi di creare. Basata sull'architettura NVIDIA Ada Lovelace e include 24 GB di memoria G6X per offrire l'esperienza definitiva per giocatori e creativi.</p>
-				<p>Prezzo: € 1789</p>
+				<p>Nintendo Switch – Modello OLED dispone di uno schermo OLED da 7 pollici con una cornice più sottile. I colori intensi e l'elevato contrasto dello schermo garantiscono un'esperienza di gioco appagante in modalità portatile e da tavolo. Osserva i tuoi giochi prendere vita, che tu stia sfrecciando a tutta velocità su un circuito o affrontando i nemici in furiosi combattimenti.</p>
+				<span class="price-old">Prezzo: €350.00</span>
+                <span class="price-discounted">Prezzo scontato: €290.00</span>
 				<form action="#" method="post">
 					<label for="quantity">Quantità</label>
 					<input type="number" name="quantity" id="quantity" value="1" min="1" required>
@@ -60,18 +62,18 @@
 			</div>
 			<h1>Caratteristiche tecniche</h1>
 			<ul>
-			<li>Core NVIDIA CUDA: 16384 </li>
-			<li>Boost Clock(GHz): 2.52</li>
-			<li>Dimensioni della memoria: 24 GB</li>
-			<li>Tipo di memoria: GDDR6X</li>
-			<li>Massima risoluzione digitale: 7680x4320</li>
-			<li>Lunghezza: 304 mm</li>
-			<li>Larghezza:137 mm</li>
-			<li>Slot: 3 slot(61mm)</li>
+			<li>Schermo: touch screen capacitivo / 7 pollici OLED / risoluzione 1280 x 720 </li>
+			<li>Memoria del sistema: 64 GB espandibile tramite schede microSD compatibili </li>
+			<li>Connettività: Wireless LAN (compatibile IEEE 802.11 a/b/g/n/ac) / Bluetooth 4.1, In modalità TV è anche possibile utilizzare una connessione LAN via cavo</li>
+			<li>Uscita video: risoluzione massima 1920 x 1080, 60 fps tramite cavo HDMI nella modalità TV. Nelle modalità da tavolo e portatile, la risoluzione massima è 1280 x 720, pari a quella del touch screen</li>
+			<li>Batteria: agli ioni di litio, capacità 4.310 mAh</li>
+			<li>Durata della batteria: circa 4,5 - 9 ore</li>
+			<li>Tempo di ricarica: circa 3 ore</li>
 			</ul>
 		</div>
 	</main>
- <footer class="footer">
+	
+	 <footer class="footer">
   <div class="footer-content">
     <div class="footer-links">
       <ul>
@@ -87,6 +89,7 @@
     </div>
   </div>
 </footer>
+
 
 </body>
 </html>
