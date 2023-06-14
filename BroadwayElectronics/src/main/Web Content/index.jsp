@@ -75,8 +75,8 @@
  </div>
  
   <div class="col-4">
-   <a href="xbox.jsp"><img src="images/xbox.png"></a>
-   <a href="xbox.jsp"><h4>Xbox Series X </h4></a>
+   <a href="xbox_x.jsp"><img src="images/xbox.png"></a>
+   <a href="xbox_x.jsp"><h4>Xbox Series X </h4></a>
    <p>€549.00</p>
  </div>
  
@@ -97,27 +97,27 @@
  
  <div class="row">
  <div class="col-4">
-   <img src="images/ps5_disco.jpg">
-   <h4>Playstation 5 </h4>
-   <p>€549.00</p>
+  <a href="ps5_d.jsp"><img src="images/ps5_buona.jpg"></a>
+   <a href="ps5_d.jsp"><h4>Playstation 5 Digital Edition </h4></a>
+   <p>€449.00</p>
  </div>
  
   <div class="col-4">
-   <img src="images/xbox.png">
-   <h4>Xbox Series X </h4>
-   <p>€549.00</p>
- </div>
+    <a href="xbox_s.jsp"><img src="images/xbox_s.jpg"></a>
+    <a href="xbox_s.jsp"><h4>Xbox Series S </h4></a>
+   <p>€280.00</p>
+   </div>
  
   <div class="col-4">
-   <img src="images/iphone14.jpg">
-   <h4>Iphone 14 Pro Max </h4>
-   <p>€1149.00</p>
- </div>
+   <a href="surface_laptop.jsp"><img src="images/surface_laptop_mod.png"></a>
+   <a href="surface_laptop.jsp"><h4>Surface Laptop 5</h4></a>
+   <p>€499.00</p>
+   </div>
  
   <div class="col-4">
-   <img src="images/katana.jpg">
-   <h4>MSI Katana </h4>
-   <p>€1150.00</p>
+   <a href="controller_ps5_viola.jsp"><img src="images/controller_ps5_violaa.jpg"></a>
+   <a href="controller_ps5_viola.jsp"><h4>Dualsense 5 Viola </h4></a>
+   <p>€70.00</p>
    </div>
  
  </div>

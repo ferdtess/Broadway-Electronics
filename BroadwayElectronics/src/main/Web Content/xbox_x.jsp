@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Playstation 5 - Broadway Electronics</title>
+<title>Xbox Series X - Broadway Electronics</title>
 <link rel="stylesheet" type="text/css" href="styles/prod_det.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -44,19 +44,18 @@
   <div class="small-container single-product">
   <div class="row">
   <div class="col-2">
-  <img src="images/ps5_disco.jpg" width =100%>
+  <img src="images/xbox.png" width =100%>
   </div>
   <div class="col-2">
-  <p>Playstation 5</p>
-  <h1>Playstation 5 con lettore DVD Blu-Ray</h1>
+  <p>Xbox</p>
+  <h1>Xbox Series X</h1>
   <h4>€549.00</h4>
   <input type="number" value="1">
    <button onclick="addToCart(1)" class="btn">Aggiungi al carrello</button>
   <h3>Caratteristiche del prodotto</h3>
-  <p> Lasciati stupire dalla grafica incredibile e prova le nuove funzionalità di PS5.
-Scopri un'esperienza di gioco più profonda con supporto per feedback tattile, trigger adattivi e tecnologia audio 3DRay Tracing - Immergiti in mondi che offrono un livello di realismo senza precedenti, con ogni raggio di luce simulato individualmente, creando effetti di ombre e riflessi ultra realistici sui giochi PS5 compatibili.
-Fino a 120 FPS con uscita a 120 Hz - Goditi un gameplay fluido con frame rate elevato fino a 120 FPS per giochi compatibili, con supporto per l'uscita a 120 Hz su display 4KTecnologia HDR - Su una TV HDR, i giochi PS5 compatibili mostrano una gamma di colori vivaci e realistici.
-Uscita 8K – Le console PS5 supportano l'uscita 8K, permettendoti di giocare sul tuo display 4320pFeedback tattile - Prova il feedback tattile tramite il controller wireless DualSense mentre giochi a determinati giochi per PS5 e senti gli effetti e l'impatto delle tue azioni di gioco attraverso il feedback sensoriale dinamico</p>
+  <p> Xbox Series X, la console Xbox più veloce e potente di sempre; Esplora nuovi mondi con 12 teraflop di potenza di elaborazione grafica, DirectX Raytracing, un'unità SSD personalizzata e il gioco in 4K.
+      Ottieni il massimo da ogni istante di gioco con Quick Resume, tempi di caricamento ultraveloci e fino a 120 fps, grazie a Xbox Velocity Architecture
+      Divertiti con migliaia di giochi di quattro generazioni di Xbox e centinaia di titoli ottimizzati con una definizione e una giocabilità mai viste prima</p>
   </div>
  </div>
  </div>
@@ -71,26 +70,26 @@ Uscita 8K – Le console PS5 supportano l'uscita 8K, permettendoti di giocare su
  <div class="small-container">
  <div class="row">
  <div class="col-4">
-    <a href="ps5_d.jsp"><img src="images/ps5_buona.jpg"></a>
-    <a href="ps5_d.jsp"><h4>Playstation 5 Digital Edition </h4></a>
-   <p>€449.00</p>
+   <a href="xbox_controller.jsp"></a><img src="images/controller_xbox_blu.jpg"></a>
+    <a href="xbox_controller.jsp"><h4>Controller Xbox Serie X|S Blu </h4></a>
+   <p>€280.00</p>
  </div>
  
   <div class="col-4">
-   <a href="xbox_x.jsp"><img src="images/xbox.png"></a>
-    <a href="xbox_x.jsp"><h4>Xbox Series X </h4></a>
+  <a href="xbox_controller_elite.jsp"><img src="images/controller_xbox_elite.jpg"></a>
+   <a href="xbox_controller_elite.jsp"><h4>Controller Xbox Serie X|S Elite Nero </h4></a>
+   <p>€150.00</p>
+ </div>
+ 
+  <div class="col-4">
+    <a href="ps5.jsp"><img src="images/ps5_disco.jpg"></a>
+   <a href="ps5.jsp"><h4>Playstation 5</h4></a>
    <p>€549.00</p>
  </div>
  
   <div class="col-4">
-    <a href="controller_ps5_edge.jsp"><img src="images/edge_2_buono.jpg"></a>
-    <a href="controller_ps5_edge.jsp"><h4>Dualsense 5 Edge</h4></a>
-   <p>€219.00</p>
- </div>
- 
-  <div class="col-4">
-   <a href="xbox_s.jsp"><img src="images/xbox_s.jpg"></a>
-   <a href="xbox_s.jsp"><h4>Xbox Series S </h4></a>
+ <a href="xbox_s.jsp"><img src="images/xbox_s.jpg"></a>
+    <a href="xbox_s.jsp"><h4>Xbox Series S </h4></a>
    <p>€280.00</p>
    </div>
   </div>
