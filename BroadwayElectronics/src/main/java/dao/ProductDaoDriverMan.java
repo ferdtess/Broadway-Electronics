@@ -27,7 +27,7 @@ public class ProductDaoDriverMan implements interfacce.IProductDao {
 		PreparedStatement preparedStatement = null;
 
 		String insertSQL = "INSERT INTO " + ProductDaoDriverMan.TABLE_NAME
-				+ " (NAME, DESCRIPTION, PRICE, QUANTITY) VALUES (?, ?, ?, ?)";
+				+ " (NOME, CATEGORIA, MARCA, PREZZO, QUANTITA) VALUES (?, ?, ?, ?, ?)";
 
 		try {
 			connection = dmcp.getConnection();
