@@ -48,7 +48,7 @@ pageEncoding="ISO-8859-1"%>
                             <span>ACQUISTA</span>
                             <img src="assets/icons/addToCart.svg" />
                         </a>
-                        <p>Restanti: <%=pb.getQuantita() %></p>
+                        <h5>Restanti: <%=pb.getQuantita() %></h5>
                     </div>
                 </div>
             </div>
