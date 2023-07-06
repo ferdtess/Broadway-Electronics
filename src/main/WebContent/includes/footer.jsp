@@ -1,7 +1,9 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
 <html lang="it">
 <head>
+<title>Broadway Electronics - footer</title>
 <link rel="stylesheet"
 	href="${pageContext.request.contextPath}/assets/styles/footer.css" />
 </head>
@@ -9,7 +11,7 @@
 	<footer>
 		<div class="footer-row">
 			<p class="footer-row-title">CHI SIAMO</p>
-			<p class="footer-row-description">Benvenuti da Broadway Electronics! Siamo un negozio di elettronica all'avanguardia, offrendo prodotti di alta qualit‡ e un servizio clienti eccezionale. Siamo appassionati di tecnologia e siamo qui per aiutarvi a trovare il prodotto perfetto. Con una vasta selezione di smartphone, computer, console e molto altro ancora, siamo pronti a soddisfare tutte le vostre esigenze tecnologiche. Scegli Broadway Electronics per un'esperienza di acquisto straordinaria.</p>
+			<p class="footer-row-description">Benvenuti da Broadway Electronics! Siamo un negozio di elettronica all'avanguardia, offrendo prodotti di alta qualit√† e un servizio clienti eccezionale. Siamo appassionati di tecnologia e siamo qui per aiutarvi a trovare il prodotto perfetto. Con una vasta selezione di smartphone, computer, console e molto altro ancora, siamo pronti a soddisfare tutte le vostre esigenze tecnologiche. Scegli Broadway Electronics per un'esperienza di acquisto straordinaria.</p>
 		</div>
 		<div class="footer-row">
 			<p class="footer-row-title">CONTATTACI</p>
