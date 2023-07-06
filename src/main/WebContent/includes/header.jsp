@@ -15,6 +15,7 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+<title>Broadway Electronics- header</title>
 <link rel="stylesheet"
 	href="${pageContext.request.contextPath}/assets/styles/header.css" />
 <script src="${pageContext.request.contextPath}/assets/js/header.js"
