@@ -27,7 +27,7 @@ $(document).ready(() => {
 				startLoop(instrumentsList, !avanti, !avanti ? (j + 1) % instrumentsList.length : j);
 			});
 		}
-		startLoop(["Telecaster Relic", "Gibson Les Paul", "Fender Stratocaster", "Gibson SG"], true, 0);
+		startLoop(["Playstation", "Samsung", "Dualsense"], true, 0);
 	}
 	startSearchbarAnimation(200, 50);
 	//ajax
