@@ -17,14 +17,14 @@ $(document).ready(() => {
 				}, speed);
 			});
 		}
-		function startLoop(instrumentsList, avanti, j) {
+		function startLoop(electronicsList, avanti, j) {
 			placeholderTypingEffect(
 				searchbar,
-				instrumentsList[j],
+				electronicsList[j],
 				avanti ? avantiSpeed : indietroSpeed,
 				avanti
 			).then(() => {
-				startLoop(instrumentsList, !avanti, !avanti ? (j + 1) % instrumentsList.length : j);
+				startLoop(electronicsList, !avanti, !avanti ? (j + 1) % electronicsList.length : j);
 			});
 		}
 		startLoop(["Playstation", "Samsung", "Dualsense"], true, 0);
