@@ -46,7 +46,7 @@ pageEncoding="ISO-8859-1"%>
                     <div>
                         <a href="carrello?action=add&id=<%=pb.getId()%>&redirect=carrello" class="buyButton">
                             <span>ACQUISTA</span>
-                            <img src="assets/icons/addToCart.svg" />
+                            <img src="assets/icons/addToCart.svg" alt="aggiungi_al_carrello" />
                         </a>
                         <h5>Restanti: <%=pb.getQuantita() %></h5>
                     </div>
