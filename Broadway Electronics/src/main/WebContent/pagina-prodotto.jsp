@@ -35,7 +35,7 @@ pageEncoding="ISO-8859-1"%>
         <section>
             <div class="global">
                 <div class="imageBox">
-                    <img src="getImage?id=<%=pb.getId() %>" />
+                    <img src="getImage?id=<%=pb.getId() %>" alt="immagine_prodotto" />
                 </div>
                 <div class="infoBox">
                     <div class="basicText"><%=pb.getNome() %></div>
